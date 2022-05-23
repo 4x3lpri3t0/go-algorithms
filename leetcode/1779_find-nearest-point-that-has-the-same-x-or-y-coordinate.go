@@ -20,3 +20,5 @@ func nearestValidPoint(x int, y int, M [][]int) int {
 
 	return answer
 }
+
+// Interesting alternative: https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/discuss/1096943/Golang-solution-100-100-with-explanation-and-images
