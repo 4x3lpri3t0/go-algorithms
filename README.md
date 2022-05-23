@@ -2,6 +2,6 @@
 
 Based on: https://www.youtube.com/watch?v=yKLTOQFcXsE
 
-```bash
+```sh
 $ generate.sh <XXXX_problem-name>
 ```
