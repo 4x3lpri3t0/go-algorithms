@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	leetcode.Average_not_optimal([]int{4000, 3000, 1000, 2000})
+	// To review:
 	// leetcode.HammingWeight(00000000000000000000000000001011)
-	// leetcode.CheckStraightLine([][]int{{2, 4}, {2, 5}, {2, 8}})
+	leetcode.NextGreaterElement([]int{4, 1, 2}, []int{1, 3, 4, 2})
 }
